@@ -8,6 +8,13 @@ The objective is to utilize the concepts of abstraction, objects, and functions 
 
 By applying higher-level concepts, such as documentation, style guides, and abstraction, the provided code was transformed into a more streamlined and comprehensible form.
 
+## Application
+Abstraction was applied to the codebase to improve its organization and make it more modular and easier to understand. This was achieved by encapsulating related functionality into seperate functions, thereby promoting code reusability, while reducing duplication.
+
+JSDoc comments were included to document the purpose, parameters, and return values of each function, and for event listeners: the event type and elements they are listening to.
+
+Special attention was paid to style guides to make the code more readable. By applying consistent indentation, descriptive naming conventions, and formatting, the code became easier to navigate and understand.
+
 ## User Stories 📖
 
 - As a user, I want to view a list of book previews, by title and author, so that I can discover new books to read.
